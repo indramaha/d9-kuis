@@ -8,13 +8,13 @@ function fizzbuzz(param){
     } else if(param%3==0){
         result = "fizz"
     } else{
-        result = param
+        result = "kamu nenyeee??"
     }
 
     return result
 }
 
-const b = fizzbuzz(0)
+const b = fizzbuzz(2)
 
 console.log(b)
 
